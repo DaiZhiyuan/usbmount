@@ -1,7 +1,7 @@
 Name: usbmount 
 Version: 1.2.3  
 Release: 1.tsinghua
-Summary: utomount USB drives with systemd
+Summary: automount USB drives with systemd
 Group: Applications/System
 License: GPLv3+
 URL: https://github.com/DaiZhiyuan/usbmount
