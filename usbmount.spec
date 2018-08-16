@@ -4,7 +4,7 @@ Release: 1.tsinghua
 Summary: utomount USB drives with systemd
 Group: Applications/System
 License: GPLv3+
-URL: http://github.com/daizhiyuan 
+URL: https://github.com/DaiZhiyuan/usbmount
 Source0: %{name}-%{version}.tar.gz
 Packager: Jerry Dai
 
